@@ -1,6 +1,6 @@
 # SM-IOT-1
 
-الكود البرمجي
+
 
 <!DOCTYPE html> 
 <html lang="ar"> 
